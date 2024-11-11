@@ -1,0 +1,1 @@
+2024-11-11 11:29:32.863 +05:00 [INF] {"Code":200,"Message":"Financial Instrument btcusdt Price Fetched Successfully.","Data":{"Open":80893.82,"Close":81130.13,"High":81188.22,"Low":80893.234,"Volume":322.29672,"Date":"2024-11-11T11:25:00+05:00"}}

@@ -1,0 +1,46 @@
+{
+	"info": {
+		"_postman_id": "3fe52bec-63d4-4189-903a-5d669a01e1ea",
+		"name": "WebApp",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "38474314"
+	},
+	"item": [
+		{
+			"name": "GetFinancialInstrumentList",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:5031/api/FinancialInstrument/GetFinancialInstrument"
+			},
+			"response": []
+		},
+		{
+			"name": "GetPrices",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5031/api/FinancialInstrument/GetPrices?instrument=btcusdt",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5031",
+					"path": [
+						"api",
+						"FinancialInstrument",
+						"GetPrices"
+					],
+					"query": [
+						{
+							"key": "instrument",
+							"value": "btcusdt"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

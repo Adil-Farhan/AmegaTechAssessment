@@ -1,0 +1,22 @@
+2024-11-11 11:29:11.739 +05:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-11-11 11:29:11.806 +05:00 [DBG] No information found on request to perform content negotiation.
+2024-11-11 11:29:11.807 +05:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-11-11 11:29:11.807 +05:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-11-11 11:29:11.809 +05:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-11-11 11:29:11.810 +05:00 [INF] Executing OkObjectResult, writing value of type 'WebApp.Models.Response'.
+2024-11-11 11:29:31.126 +05:00 [DBG] Attempting to bind parameter 'instrument' of type 'System.String' using the name 'instrument' in request data ...
+2024-11-11 11:29:31.128 +05:00 [DBG] Done attempting to bind parameter 'instrument' of type 'System.String'.
+2024-11-11 11:29:32.983 +05:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-11-11 11:29:32.983 +05:00 [DBG] No information found on request to perform content negotiation.
+2024-11-11 11:29:32.983 +05:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-11-11 11:29:32.983 +05:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-11-11 11:29:32.983 +05:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-11-11 11:29:32.983 +05:00 [INF] Executing OkObjectResult, writing value of type 'WebApp.Models.Response'.
+2024-11-11 11:30:26.180 +05:00 [DBG] Attempting to bind parameter 'instrument' of type 'System.String' using the name 'instrument' in request data ...
+2024-11-11 11:30:26.180 +05:00 [DBG] Done attempting to bind parameter 'instrument' of type 'System.String'.
+2024-11-11 11:30:26.978 +05:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2024-11-11 11:30:26.978 +05:00 [DBG] No information found on request to perform content negotiation.
+2024-11-11 11:30:26.978 +05:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-11-11 11:30:26.978 +05:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2024-11-11 11:30:26.978 +05:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-11-11 11:30:26.978 +05:00 [INF] Executing OkObjectResult, writing value of type 'WebApp.Models.Response'.
